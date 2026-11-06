@@ -1,0 +1,1 @@
+# PointerNext_VekXo_Assignment
