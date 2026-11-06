@@ -1,0 +1,9 @@
+device_id,facility_code,facility_name,ward_code,ward_name,bed,patient_ref,patient_name,valid_from
+dev-01,NGC,North Gate Clinic,MED,Medical Ward,1,PAT-11,Anil Reddy,2026-10-27T02:30:00Z
+dev-02,NGC,North Gate Clinic,MED,Medical Ward,2,PAT-17,Meera Shah,2026-10-27T02:30:00Z
+dev-06,NGC,North Gate Clinic,MED,Medical Ward,3,PAT-52,Joseph D'Souza,2026-10-27T02:30:00Z
+dev-03,NGC,North Gate Clinic,MED,Medical Ward,4,PAT-22,Fatima Khan,2026-10-27T02:30:00Z
+dev-04,NGC,North Gate Clinic,OBS,Observation Ward,1,PAT-31,Grace Iyer,2026-10-27T02:30:00Z
+dev-05,NGC,North Gate Clinic,OBS,Observation Ward,2,PAT-38,Hasan Ali,2026-10-27T02:30:00Z
+dev-08,NGC,North Gate Clinic,OBS,Observation Ward,3,PAT-44,John Paul,2026-10-27T02:30:00Z
+dev-07,NGC,North Gate Clinic,OBS,Observation Ward,4,PAT-08,Lakshmi Rao,2026-10-27T02:30:00Z
